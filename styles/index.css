@@ -1,0 +1,74 @@
+/* Skriver inga kommentarer denna gång */
+
+* {
+    font-style: italic;
+    text-align: center;
+}
+
+body {
+    background: linear-gradient(rgba(189, 152, 152, 0.5), rgba(243, 240, 240, 0.5)), url(../images/Grass.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: green;
+    font-size: 50px;
+    font-weight: 250;
+    background-color: rgb(230, 172, 183);
+}
+
+h3 {
+    color: rgb(128, 39, 7);
+    background-color: yellowgreen;
+    font-size: 30px;
+    font-weight: 350;
+    font-family: sans-serif;
+}
+
+.copyright {
+    color: rgb(71, 6, 6);
+    font-weight: bold;
+    font-weight: 250;
+}
+
+#kontakt {
+    color: rgb(107, 27, 64);
+    font-size: 30px;
+}
+
+a {
+    font-style: normal;
+    font-size: 25px;
+}
+
+p {
+    font-size: 35px;
+}
+
+img {
+    border-width: 20px;
+    border-style: inset;
+}
+
+li {
+    font-size: 50px;
+    list-style: none;
+}
+
+a:hover {
+    text-decoration: none;
+    color: blue
+}
+
+li {
+    font-size: 40px;
+}
+
+a {
+    color: rgb(182, 8, 46);
+    font-weight: bold;
+    font-style: italic;
+    font-size: 35px;
+}
